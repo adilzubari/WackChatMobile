@@ -1,4 +1,4 @@
-package com.wackchat.newarchitecture.modules;
+package com.ezebytes.wackchat.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;

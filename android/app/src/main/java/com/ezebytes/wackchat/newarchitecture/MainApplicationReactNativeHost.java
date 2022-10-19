@@ -1,4 +1,4 @@
-package com.wackchat.newarchitecture;
+package com.ezebytes.wackchat.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -20,9 +20,9 @@ import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.wackchat.BuildConfig;
-import com.wackchat.newarchitecture.components.MainComponentsRegistry;
-import com.wackchat.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.ezebytes.wackchat.BuildConfig;
+import com.ezebytes.wackchat.newarchitecture.components.MainComponentsRegistry;
+import com.ezebytes.wackchat.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

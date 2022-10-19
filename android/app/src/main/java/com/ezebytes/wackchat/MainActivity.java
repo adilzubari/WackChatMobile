@@ -1,4 +1,4 @@
-package com.wackchat;
+package com.ezebytes.wackchat;
 
 import android.os.Build;
 import android.os.Bundle;

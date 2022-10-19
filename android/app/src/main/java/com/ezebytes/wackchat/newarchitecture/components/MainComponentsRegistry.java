@@ -1,4 +1,4 @@
-package com.wackchat.newarchitecture.components;
+package com.ezebytes.wackchat.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;
